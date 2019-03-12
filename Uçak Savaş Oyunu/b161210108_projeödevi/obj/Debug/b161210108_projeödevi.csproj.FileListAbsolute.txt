@@ -1,0 +1,9 @@
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\bin\Debug\b161210108_projeödevi.exe.config
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\bin\Debug\b161210108_projeödevi.exe
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\bin\Debug\b161210108_projeödevi.pdb
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.csprojResolveAssemblyReference.cache
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.Form1.resources
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.Properties.Resources.resources
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.csproj.GenerateResource.Cache
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.exe
+c:\users\gokay\onedrive\belgeler\visual studio 2015\Projects\b161210108_projeödevi\b161210108_projeödevi\obj\Debug\b161210108_projeödevi.pdb
